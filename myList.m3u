@@ -1,0 +1,92 @@
+﻿#EXTM3U
+#EXTINF:1,یک
+http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=4953&checkedby:iptvcat.com
+#EXTINF:1,آریانا 
+http://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w1314452267.m3u8
+#EXTINF:1,آریانا دوم
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
+#EXTINF:1,طلوع
+http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=4969&checkedby:iptvcat.com
+#EXTINF:0,زن
+http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=37746&checkedby:iptvcat.com
+#EXTINF:1 tvg-country="AF" tvg-logo="" group-title="Undefined",خورشید
+http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=4977&checkedby:iptvcat.com
+#EXTINF:1 tvg-country="AF" tvg-logo="" group-title="Undefined",راه فردا
+http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=5101&checkedby:iptvcat.com
+#EXTINF:1,زرین
+https://59d39900ebfb8.streamlock.net/8484/8484/chunklist_w1615128073.m3u8
+#EXTINF:1,افغانستان
+http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=15537&checkedby:iptvcat.com
+#EXTINF:1,سما
+http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=35424&checkedby:iptvcat.com
+#EXTINF:1,امید
+http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=8637&checkedby:iptvcat.com
+#EXTINF:1,طوطی 
+http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=11004&checkedby:iptvcat.com
+#EXTINF:1,نوین
+http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=14560&checkedby:iptvcat.com
+#EXTINF:1,پامیر
+http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=35947&checkedby:iptvcat.com
+#EXTINF:1,تیاتر 
+http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=5033
+#EXTINF:1,آرزو
+http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=5145&checkedby:iptvcat.com
+#EXTINF:1, موزیک
+http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=14159&checkedby:iptvcat.com
+#EXTINF:1,کیهان
+http://playout395.livestreamingcdn.com:1935/live/Stream1/playlist.m3u8
+#EXTINF:1 tvg-country="AF" tvg-logo="" group-title="Undefined",دنیا
+http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=25766&checkedby:iptvcat.com
+#EXTINF:1,آریا موزیک
+http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=8636&checkedby:iptvcat.com
+#EXTINF:1,B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:1,B4U Plus
+http://37.235.38.131:4000/play/a02m/index.m3u8?checkedby:iptvcat.com
+#EXTINF:1,Bollywood Tv
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END&checkedby:iptvcat.com
+#EXTINF:1,Bollywood Classic
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END&checkedby:iptvcat.com
+#EXTINF:1,Bollywood Show
+http://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8?checkedby:iptvcat.com
+#EXTINF:1,Bollywood Shemaroo
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8?checkedby:iptvcat.com
+#EXTINF:1,Shemaroo Primer 
+https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8?checkedby:iptvcat.com
+#EXTINF:1,Bollywood Now
+https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8?checkedby:flylinks.net
+#EXTINF:1,Zing 
+https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:1,Zee 
+https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+#EXTINF:1,Zee Bollywood
+https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
+#EXTINF:1,Zee Cinema
+https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+#EXTINF:1,Star Gold
+https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+#EXTINF:1,Color 
+https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+#EXTINF:1,Venus 1
+http://45.77.90.56:8080/hls/mystream.m3u8?checkedby:iptvcat.com
+#EXTINF:1,Venus 2
+https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8?checkedby:iptvcat.com
+#EXTINF:1,Matv Nation
+https://a.jsrdn.com/r-373576a2/publish/22677_J8PT4x6prY/index.m3u8?checkedby:iptvcat.com
+#EXTINF:1,Sony Sab
+http://216.144.250.174/Sony_Sab_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony Max
+http://216.144.250.174/Sony_Max_HD/track-v1a1/mono.m3u8
+#EXTINF:1 tvg-chno="a" tvg-id="b" tvg-name="c" tvg-logo="d" group-title="e", Taj Jahanuma
+http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=38500&checkedby:iptvcat.com
+
+
+
+
+
+
+
+
+
+
+
