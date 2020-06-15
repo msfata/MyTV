@@ -13,6 +13,10 @@ http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=37746&checkedby:iptvcat.com
 http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=4977&checkedby:iptvcat.com
 #EXTINF:1,راه فردا
 http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=5101&checkedby:iptvcat.com
+#EXTINF:1,مسکینیار
+http://iptv.arianaafgtv.com/ariana/playlist1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:1,پیام افغان
+http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=8623&checkedby:iptvcat.com
 #EXTINF:1,زرین
 https://59d39900ebfb8.streamlock.net/8484/8484/chunklist_w1615128073.m3u8
 #EXTINF:1,افغانستان
@@ -49,8 +53,6 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(167772
 http://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8?checkedby:iptvcat.com
 #EXTINF:1,Bollywood Shemaroo
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8?checkedby:iptvcat.com
-#EXTINF:1,Shemaroo Primer 
-https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8?checkedby:iptvcat.com
 #EXTINF:1,Bollywood Now
 https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8?checkedby:flylinks.net
 #EXTINF:1,Zing 
@@ -77,5 +79,13 @@ http://216.144.250.174/Sony_Sab_HD/tracks-v1a1/mono.m3u8
 http://216.144.250.174/Sony_Max_HD/track-v1a1/mono.m3u8
 #EXTINF:1, Ind TV
 https://t06858-lh.akamaihd.net/i/t06858a_1@719164/index_1500000_av-p.m3u8?checkedby:iptvcat.com
-#EXTINF:1, Cinema TV
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/5392.m3u8?checkedby:iptvcat.com
+
+
+
+
+
+
+
+
+
+
