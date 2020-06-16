@@ -7,6 +7,8 @@ http://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w1314452267.m3u
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
 #EXTINF:1,طلوع
 http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=4969&checkedby:iptvcat.com
+#EXTINF:0,Jahanbin
+http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=40534&checkedby:iptvcat.com
 #EXTINF:0,زن
 http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=37746&checkedby:iptvcat.com
 #EXTINF:1,خورشید
@@ -17,10 +19,16 @@ http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=5101&checkedby:iptvcat.com
 http://iptv.arianaafgtv.com/ariana/playlist1/index.m3u8?checkedby:iptvcat.com
 #EXTINF:1,پیام افغان
 http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=8623&checkedby:iptvcat.com
+#EXTINF:1,Afg Times
+http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=15914&checkedby:iptvcat.com
 #EXTINF:1,زرین
 https://59d39900ebfb8.streamlock.net/8484/8484/chunklist_w1615128073.m3u8
 #EXTINF:1,افغانستان
 http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=15537&checkedby:iptvcat.com
+#EXTINF:1,Wataneman
+http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=8655&checkedby:iptvcat.com
+#EXTINF:1,Bahar
+http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=15615&checkedby:iptvcat.com
 #EXTINF:1,سما
 http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=35424&checkedby:iptvcat.com
 #EXTINF:1,امید
@@ -45,14 +53,10 @@ http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=25766&checkedby:iptvcat.com
 http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=8636&checkedby:iptvcat.com
 #EXTINF:1,B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,Romania: BO TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:1,Bollywood Tv
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END&checkedby:iptvcat.com
 #EXTINF:1,Bollywood Classic
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END&checkedby:iptvcat.com
-#EXTINF:-1,Romania: BO CLASIC
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:1,Bollywood Show
 http://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8?checkedby:iptvcat.com
 #EXTINF:1,Bollywood Shemaroo
@@ -77,10 +81,7 @@ https://a.jsrdn.com/broadcast/22690/-0800/c.m3u8?checkedby:iptvcat.com
 https://a.jsrdn.com/r-373576a2/publish/22677_J8PT4x6prY/index.m3u8?checkedby:iptvcat.com
 #EXTINF:1,Sony Sab
 http://216.144.250.174/Sony_Sab_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony Max
-https://tinyurl.com/y7lpv7od
-#EXTINF:1, Ind TV
-https://t06858-lh.akamaihd.net/i/t06858a_1@719164/index_1500000_av-p.m3u8?checkedby:iptvcat.com
+
 
 
 
