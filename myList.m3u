@@ -61,8 +61,8 @@ http://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8?checkedby:iptvcat.com
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8?checkedby:iptvcat.com
 #EXTINF:1,Bollywood Now
 https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8?checkedby:flylinks.net
-#EXTINF:-1,Sony Max
-http://216.144.250.174/Sony_Max_HD/track-v1a1/mono.m3u8
+#EXTINF:-1,Netflix's 
+http://vlc.news:9000/live/sharpstar_955951/MG4z24H0/100989.m3u8?checkedby:iptvcat.com
 #EXTINF:1,Zing 
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:1,Zee 
@@ -75,11 +75,10 @@ https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:1,Matv Nation
 https://a.jsrdn.com/r-373576a2/publish/22677_J8PT4x6prY/index.m3u8?checkedby:iptvcat.com
-#EXTINF:1,Sony Sab
-http://216.144.250.174/Sony_Sab_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,star1
+#EXTINF:-1,Star Bharat
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8?checkedby:iptvcat.com
-
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",NetFlix Action 1
+http://vlc.news:9000/live/sharpstar_955951/MG4z24H0/99657.m3u8?checkedby:iptvcat.com
 
 
 
