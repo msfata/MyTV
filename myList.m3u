@@ -53,6 +53,8 @@ http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=8636&checkedby:iptvcat.com
 http://103.214.202.218:8081/live/satmax-37/chunks.m3u8
 #EXTINF:1,Star Gold
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+#EXTINF:1,Star Select
+http://tv.ebox.live:8080/live/star-gold-select.m3u8
 #EXTINF:-1,Star Bharat
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8?checkedby:iptvcat.com 
 #EXTINF:1,B4U Kadak
@@ -75,6 +77,8 @@ https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 #EXTINF:1,Zee Cinema
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+#EXTINF:1,Zee CinHD
+http://tv.ebox.live:8080/live/zee-cinema.m3u8
 #EXTINF:1,Matv Nation
 https://a.jsrdn.com/r-373576a2/publish/22677_J8PT4x6prY/index.m3u8?checkedby:iptvcat.com
 #EXTINF:1,Venus 1
@@ -85,7 +89,12 @@ https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8?checkedby:iptvcat.com
 http://103.214.202.218:8081/live/andflix-29/playlist.m3u8
 #EXTINF:0, Color HD
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8 
-
+#EXTINF:0, Sony
+http://tv.ebox.live:8080/live/sony-pix.m3u8
+#EXTINF:0, Sony Sub
+http://tv.ebox.live:8080/live/sony-sab.m3u8
+#EXTINF:0, Sony Max2
+http://tv.ebox.live:8080/live/sony-max-2.m3u8
 
 
 
