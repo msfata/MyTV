@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:1,افغان تایمز
-http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=15914&checkedby:iptvcat.com
 #EXTINF:1,بهار
 http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=15615&checkedby:iptvcat.com
 #EXTINF:1,سما
@@ -26,14 +24,10 @@ http://playout395.livestreamingcdn.com:1935/live/Stream1/playlist.m3u8
 http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=25766&checkedby:iptvcat.com
 #EXTINF:1,آریا موزیک
 http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=8636&checkedby:iptvcat.com
-
-
 #EXTINF:0,SONY MAX HD
 http://tv.ebox.live:8080/live/sony-max.m3u8
 #EXTINF:0, SONY MAX PLUS
 http://tv.ebox.live:8080/live/sony-max-2.m3u8
-
-
 #EXTINF:1,BOLLYWOOD HD
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END&checkedby:iptvcat.com
 #EXTINF:1, BOLLYWOOD SHEMAROO
@@ -46,45 +40,17 @@ http://tv.ebox.live:8080/live/zee-action.m3u8
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:-1, ZEE CINE HD
 http://tv.ebox.live:8080/live/zee-cinema.m3u8
-
 #EXTINF:1,BOLLYWOOD CLASSIC
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END&checkedby:iptvcat.com
 #EXTINF:1,STAR GOLD
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:1,STAR SELECT 
 http://tv.ebox.live:8080/live/star-gold-select.m3u8
-#EXTINF:-1,STAR BAHARAT
-https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8?checkedby:iptvcat.com 
-
-
-#EXTINF:1,BOLLYWOOD NOW
-https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8?checkedby:flylinks.net
-#EXTINF:1,B4U KADAK
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8?checkedby:iptvcat.com
-
 #EXTINF:1,VENUS UK
 http://45.77.90.56:8080/hls/mystream.m3u8?checkedby:iptvcat.com
 #EXTINF:1,VENUS EUROPE
 https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,COLOR INFINITY 
-http://tv.ebox.live:8080/live/color-Infinity.m3u8
-#EXTINF:0, COLOR HD
-https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8 
-
-#EXTINF:1,ZEE TV
-https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
-#EXTINF:-1,ZEE HD
-http://tv.ebox.live:8080/live/zee-tv.m3u8
-#EXTINF:0, SONY SAB
-http://tv.ebox.live:8080/live/sony-sab.m3u8
-#EXTINF:1,ZING TV
-https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8?checkedby:iptvcat.com
 
 
-#EXTINF:0, FLIX HD
-http://103.214.202.218:8081/live/andflix-29/playlist.m3u8
-#EXTINF:-1,ANIMAL PLANET
-http://tv.ebox.live:8080/live/animale-planet.m3u8
-#EXTINF:0, SONY PIX HD
-http://tv.ebox.live:8080/live/sony-pix.m3u8
+
