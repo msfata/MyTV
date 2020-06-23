@@ -38,18 +38,38 @@ https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 http://tv.ebox.live:8080/live/zee-action.m3u8
 #EXTINF:1,ZEE CINEMA
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+#EXTINF:1,ZEE CINEMA ASIA
+http://vlc.news:9000/live/sharpstar_955951/MG4z24H0/92003.m3u8?checkedby:iptvcat.com
 #EXTINF:-1, ZEE CINE HD
 http://tv.ebox.live:8080/live/zee-cinema.m3u8
 #EXTINF:0, BOLLYWOOD CLASSIC
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END&checkedby:iptvcat.com
 #EXTINF:1,STAR GOLD
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+#EXTINF:1,B4U
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8?checkedby:iptvcat.com
 #EXTINF:1,STAR SELECT 
 http://tv.ebox.live:8080/live/star-gold-select.m3u8
 #EXTINF:1,VENUS UK
 http://45.77.90.56:8080/hls/mystream.m3u8?checkedby:iptvcat.com
 #EXTINF:1,VENUS EUROPE
 https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8?checkedby:iptvcat.com
+#EXTINF:1,BOLLYWOOD SHOW
+http://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8?checkedby:iptvcat.com
+#EXTINF:1,MATV NATION
+https://a.jsrdn.com/r-373576a2/publish/22677_J8PT4x6prY/index.m3u8?checkedby:iptvcat.com
+#EXTINF:1,AND
+http://vlc.news:9000/live/sharpstar_955951/MG4z24H0/91936.m3u8?checkedby:iptvcat.com
+#EXTINF:1,COLOR HD
+http://vlc.news:9000/live/sharpstar_955951/MG4z24H0/91949.m3u8?checkedby:iptvcat.com
+#EXTINF:1,SHEMAROO CLASSIC
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8?checkedby:iptvcat.com
+#EXTINF:1,RISHTEY
+http://vlc.news:9000/live/sharpstar_955951/MG4z24H0/91974.m3u8?checkedby:iptvcat.com
+#EXTINF:1,STAR PLUS
+http://vlc.news:9000/live/sharpstar_955951/MG4z24H0/91977.m3u8?checkedby:iptvcat.com
+#EXTINF:1,UTV BINDAS
+http://vlc.news:9000/live/sharpstar_955951/MG4z24H0/91946.m3u8?checkedby:iptvcat.com
 
 
 
