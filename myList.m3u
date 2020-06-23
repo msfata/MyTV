@@ -49,77 +49,65 @@ http://playout395.livestreamingcdn.com:1935/live/Stream1/playlist.m3u8
 http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=25766&checkedby:iptvcat.com
 #EXTINF:1,آریا موزیک
 http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=8636&checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="a" tvg-id="b" tvg-name="c" tvg-logo="d" group-title="e", RTA Sport
-http://212.47.252.54/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-chno="a" tvg-id="b" tvg-name="c" tvg-logo="d" group-title="e", Ayna TV
-http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=37728&checkedby:iptvcat.com
-#EXTINF:1 tvg-chno="a" tvg-id="b" tvg-name="c" tvg-logo="d" group-title="e", Taj Safina
-http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=38520&checkedby:iptvcat.com
-#EXTINF:1 tvg-chno="a" tvg-id="b" tvg-name="c" tvg-logo="d" group-title="e", Taj Jahanuma
-http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=38500&checkedby:iptvcat.com
-#EXTINF:1,Star Gold
+
+
+#EXTINF:1,STAR GOLD
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
-#EXTINF:1,Star Select
+#EXTINF:1,STAR SELECT 
 http://tv.ebox.live:8080/live/star-gold-select.m3u8
-#EXTINF:-1,Star Bharat
+#EXTINF:-1,STAR BAHARAT
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8?checkedby:iptvcat.com 
-#EXTINF:1,B4U Kadak
+#EXTINF:1,B4U KADAK
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8?checkedby:iptvcat.com
-#EXTINF:1,Bollywood HD
+#EXTINF:1,BOLLYWOOD HD
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END&checkedby:iptvcat.com
-#EXTINF:1,Bollywood Classic
+#EXTINF:1,BOLLYWOOD CLASSIC
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END&checkedby:iptvcat.com
-#EXTINF:1,Bollywood Show
+#EXTINF:1,BOLLYWOOD SHOW
 http://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8?checkedby:iptvcat.com
-#EXTINF:1,Bollywood Shemaroo
+#EXTINF:1, BOLLYWOOD SHEMAROO
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8?checkedby:iptvcat.com
-#EXTINF:1,Bollywood Now
+#EXTINF:1,BOLLYWOOD NOW
 https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8?checkedby:flylinks.net
-#EXTINF:1,Zing TV
+#EXTINF:1,ZING TV
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:1,Zee TV
+#EXTINF:1,ZEE TV
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
-#EXTINF:-1,ZEE TV HD
+#EXTINF:-1,ZEE HD
 http://tv.ebox.live:8080/live/zee-tv.m3u8
-#EXTINF:1,Zee Bollywood
+#EXTINF:1,ZEE BOLLYWOOD
 https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
-#EXTINF:-1,Zee Action
+#EXTINF:-1,ZEE ACTION
 http://tv.ebox.live:8080/live/zee-action.m3u8
-#EXTINF:1,Zee Cinema Asia
-http://vlc.news:9000/live/sharpstar_955951/MG4z24H0/92003.m3u8?checkedby:iptvcat.com
-#EXTINF:1,Zee Cinema
+#EXTINF:1,ZEE CINEMA
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
-#EXTINF:1,Zee CinHD
+#EXTINF:1,ZEE CINE HD
 http://tv.ebox.live:8080/live/zee-cinema.m3u8
-#EXTINF:1,Matv Nation
-https://a.jsrdn.com/r-373576a2/publish/22677_J8PT4x6prY/index.m3u8?checkedby:iptvcat.com
-#EXTINF:1,Venus 1
+#EXTINF:1,VENUS UK
 http://45.77.90.56:8080/hls/mystream.m3u8?checkedby:iptvcat.com
-#EXTINF:1,Venus 2
+#EXTINF:1,VENUS EUROPE
 https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,Color Rishtey
-http://vlc.news:9000/live/sharpstar_955951/MG4z24H0/91974.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,Color Infinity
+#EXTINF:-1,COLOR INFINITY 
 http://tv.ebox.live:8080/live/color-Infinity.m3u8
-#EXTINF:0, Color HD
+#EXTINF:0, COLOR HD
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8 
-#EXTINF:0, Sony Sub
+#EXTINF:0, SONY SAB
 http://tv.ebox.live:8080/live/sony-sab.m3u8
-#EXTINF:-1,Sony Max HD
+#EXTINF:-1,SONY MAX HD
 http://tv.ebox.live:8080/live/sony-max.m3u8
-#EXTINF:0, Sony Max2
+#EXTINF:0, SONY MAX PLUS
 http://tv.ebox.live:8080/live/sony-max-2.m3u8
-#EXTINF:0, Sony Pix HD
+#EXTINF:0, SONY PIX HD
 http://tv.ebox.live:8080/live/sony-pix.m3u8
-#EXTINF:-1,Sony Ten 3
+#EXTINF:-1,SONY 10
 http://tv.ebox.live:8080/live/sonyten-3.m3u8
-#EXTINF:-1,Nick
+#EXTINF:-1,NICK
 http://tv.ebox.live:8080/live/nick.m3u8
-#EXTINF:0, Flix HD
+#EXTINF:0, FLIX HD
 http://103.214.202.218:8081/live/andflix-29/playlist.m3u8
-#EXTINF:-1,Animal Planet
+#EXTINF:-1,ANIMAL PLANET
 http://tv.ebox.live:8080/live/animale-planet.m3u8
-#EXTINF:0 tvg-chno="a" tvg-id="b" tvg-name="c" tvg-logo="d" group-title="e",Star Gold IND
-https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
-#EXTINF:1,Jalsa Movies
-http://tv.ebox.live:8080/live/star-jalsha-movies.m3u8
+#EXTINF:1,MATV NATION
+https://a.jsrdn.com/r-373576a2/publish/22677_J8PT4x6prY/index.m3u8?checkedby:iptvcat.com
+
+
