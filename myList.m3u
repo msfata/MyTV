@@ -85,6 +85,8 @@ http://tv.ebox.live:8080/live/zee-tv.m3u8
 https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 #EXTINF:-1,Zee Action
 http://tv.ebox.live:8080/live/zee-action.m3u8
+#EXTINF:1,Zee Cinema Asia
+http://vlc.news:9000/live/sharpstar_955951/MG4z24H0/92003.m3u8?checkedby:iptvcat.com
 #EXTINF:1,Zee Cinema
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:1,Zee CinHD
@@ -95,6 +97,8 @@ https://a.jsrdn.com/r-373576a2/publish/22677_J8PT4x6prY/index.m3u8?checkedby:ipt
 http://45.77.90.56:8080/hls/mystream.m3u8?checkedby:iptvcat.com
 #EXTINF:1,Venus 2
 https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Color Rishtey
+http://vlc.news:9000/live/sharpstar_955951/MG4z24H0/91974.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Color Infinity
 http://tv.ebox.live:8080/live/color-Infinity.m3u8
 #EXTINF:0, Color HD
