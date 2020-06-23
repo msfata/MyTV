@@ -63,26 +63,21 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8?che
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END&checkedby:iptvcat.com
 #EXTINF:1,BOLLYWOOD CLASSIC
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END&checkedby:iptvcat.com
-#EXTINF:1,BOLLYWOOD SHOW
-http://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8?checkedby:iptvcat.com
+
 #EXTINF:1, BOLLYWOOD SHEMAROO
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8?checkedby:iptvcat.com
 #EXTINF:1,BOLLYWOOD NOW
 https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8?checkedby:flylinks.net
 
-#EXTINF:1,ZING TV
-https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:1,ZEE TV
-https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
-#EXTINF:-1,ZEE HD
-http://tv.ebox.live:8080/live/zee-tv.m3u8
+
+
 #EXTINF:1,ZEE BOLLYWOOD
 https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 #EXTINF:-1,ZEE ACTION
 http://tv.ebox.live:8080/live/zee-action.m3u8
 #EXTINF:1,ZEE CINEMA
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
-#EXTINF:1,ZEE CINE HD
+#EXTINF:-1, ZEE CINE HD
 http://tv.ebox.live:8080/live/zee-cinema.m3u8
 
 #EXTINF:1,STAR GOLD
@@ -102,11 +97,15 @@ http://tv.ebox.live:8080/live/color-Infinity.m3u8
 #EXTINF:0, COLOR HD
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8 
 
-
+#EXTINF:1,ZEE TV
+https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+#EXTINF:-1,ZEE HD
+http://tv.ebox.live:8080/live/zee-tv.m3u8
 #EXTINF:0, SONY SAB
 http://tv.ebox.live:8080/live/sony-sab.m3u8
-#EXTINF:1,MATV NATION
-https://a.jsrdn.com/r-373576a2/publish/22677_J8PT4x6prY/index.m3u8?checkedby:iptvcat.com
+#EXTINF:1,ZING TV
+https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8?checkedby:iptvcat.com
+
 
 #EXTINF:0, FLIX HD
 http://103.214.202.218:8081/live/andflix-29/playlist.m3u8
