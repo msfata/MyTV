@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:1,یک
-http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=4953&checkedby:iptvcat.com
-#EXTINF:1,آریانا 
-http://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w1314452267.m3u8
-#EXTINF:1,آریانا دوم
-https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
-#EXTINF:1,طلوع
-http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=4969&checkedby:iptvcat.com
-#EXTINF:0,زن
-http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=37746&checkedby:iptvcat.com
-#EXTINF:1,خورشید
-http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=4977&checkedby:iptvcat.com
-#EXTINF:1,راه فردا
-http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=5101&checkedby:iptvcat.com
-#EXTINF:1,مسکینیار
-http://iptv.arianaafgtv.com/ariana/playlist1/index.m3u8?checkedby:iptvcat.com
-#EXTINF:1,پیام افغان
-http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=8623&checkedby:iptvcat.com
 #EXTINF:1,افغان تایمز
 http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=15914&checkedby:iptvcat.com
 #EXTINF:1,زرین
@@ -50,11 +32,6 @@ http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=25766&checkedby:iptvcat.com
 #EXTINF:1,آریا موزیک
 http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=8636&checkedby:iptvcat.com
 
-
-#EXTINF:-1,SONY MAX HD
-https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne&checkedby:iptvcat.com
-#EXTINF:0, SONY MAX PLUS
-http://tv.ebox.live:8080/live/sony-max-2.m3u8
 
 #EXTINF:1,B4U KADAK
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8?checkedby:iptvcat.com
