@@ -1,72 +1,72 @@
 #EXTM3U
-#EXTINF:1,افغان تایمز
+#EXTINF:0,افغان تایمز
 http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=15914&checkedby:iptvcat.com
-#EXTINF:1,زرین
+#EXTINF:0,زرین
 https://59d39900ebfb8.streamlock.net/8484/8484/chunklist_w1615128073.m3u8
-#EXTINF:1,افغانستان
+#EXTINF:0,افغانستان
 http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=15537&checkedby:iptvcat.com
-#EXTINF:1,وطن من
+#EXTINF:0,وطن من
 http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=8655&checkedby:iptvcat.com
-#EXTINF:1,بهار
+#EXTINF:0,بهار
 http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=15615&checkedby:iptvcat.com
 #EXTINF:0,سما
 http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=35424&checkedby:iptvcat.com
-#EXTINF:1,امید
+#EXTINF:0,امید
 http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=8637&checkedby:iptvcat.com
-#EXTINF:1,طوطی 
+#EXTINF:0,طوطی 
 http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=11004&checkedby:iptvcat.com
-#EXTINF:1,نوین
+#EXTINF:0,نوین
 http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=14560&checkedby:iptvcat.com
-#EXTINF:1,پامیر
+#EXTINF:0,پامیر
 http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=35947&checkedby:iptvcat.com
-#EXTINF:1,تیاتر  
+#EXTINF:0,تیاتر  
 http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=5033
-#EXTINF:1,آرزو
+#EXTINF:0,آرزو
 http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=5145&checkedby:iptvcat.com
-#EXTINF:1, موزیک
+#EXTINF:0, موزیک
 http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=14159&checkedby:iptvcat.com
-#EXTINF:1,کیهان
+#EXTINF:0,کیهان
 http://playout395.livestreamingcdn.com:1935/live/Stream1/playlist.m3u8
-#EXTINF:1,دنیا
+#EXTINF:0,دنیا
 http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=25766&checkedby:iptvcat.com
-#EXTINF:1,آریا موزیک
+#EXTINF:0,آریا موزیک
 http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=8636&checkedby:iptvcat.com
 
 
-#EXTINF:1,B4U KADAK
+#EXTINF:0,B4U KADAK
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:1,BOLLYWOOD HD
+#EXTINF:0,BOLLYWOOD HD
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END&checkedby:iptvcat.com
-#EXTINF:1,BOLLYWOOD CLASSIC
+#EXTINF:0,BOLLYWOOD CLASSIC
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END&checkedby:iptvcat.com
 
-#EXTINF:1, BOLLYWOOD SHEMAROO
+#EXTINF:0, BOLLYWOOD SHEMAROO
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8?checkedby:iptvcat.com
-#EXTINF:1,BOLLYWOOD NOW
+#EXTINF:0,BOLLYWOOD NOW
 https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8?checkedby:flylinks.net
 
 
 
-#EXTINF:1,ZEE BOLLYWOOD
+#EXTINF:0,ZEE BOLLYWOOD
 https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 
-#EXTINF:1,ZEE CINEMA
+#EXTINF:0,ZEE CINEMA
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 
 
-#EXTINF:-1,STAR BAHARAT
+#EXTINF:0,STAR BAHARAT
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8?checkedby:iptvcat.com 
 
-#EXTINF:1,VENUS UK
+#EXTINF:0,VENUS UK
 http://45.77.90.56:8080/hls/mystream.m3u8?checkedby:iptvcat.com
-#EXTINF:1,VENUS EUROPE
+#EXTINF:0,VENUS EUROPE
 https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8?checkedby:iptvcat.com
 
-#EXTINF:1, COLOR HD
+#EXTINF:0, COLOR HD
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8 
 
-#EXTINF:1,ZEE TV
+#EXTINF:0,ZEE TV
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 
 #EXTINF:0,ZING TV
