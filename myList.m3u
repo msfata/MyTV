@@ -50,17 +50,12 @@ https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8?checkedby:flylinks.net
 
 #EXTINF:1,ZEE BOLLYWOOD
 https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
-#EXTINF:-1,ZEE ACTION
-http://tv.ebox.live:8080/live/zee-action.m3u8
+
 #EXTINF:1,ZEE CINEMA
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:-1, ZEE CINE HD
 http://tv.ebox.live:8080/live/zee-cinema.m3u8
 
-#EXTINF:1,STAR GOLD
-https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
-#EXTINF:1,STAR SELECT 
-http://tv.ebox.live:8080/live/star-gold-select.m3u8
 #EXTINF:-1,STAR BAHARAT
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8?checkedby:iptvcat.com 
 
@@ -69,28 +64,18 @@ http://45.77.90.56:8080/hls/mystream.m3u8?checkedby:iptvcat.com
 #EXTINF:1,VENUS EUROPE
 https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,COLOR INFINITY 
-http://tv.ebox.live:8080/live/color-Infinity.m3u8
-#EXTINF:0, COLOR HD
+#EXTINF:1, COLOR HD
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8 
 
 #EXTINF:1,ZEE TV
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
-#EXTINF:-1,ZEE HD
-http://tv.ebox.live:8080/live/zee-tv.m3u8
-#EXTINF:0, SONY SAB
-http://tv.ebox.live:8080/live/sony-sab.m3u8
-#EXTINF:1,ZING TV
+
+#EXTINF:0,ZING TV
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8?checkedby:iptvcat.com
 
 
 #EXTINF:0, FLIX HD
 http://103.214.202.218:8081/live/andflix-29/playlist.m3u8
-#EXTINF:-1,ANIMAL PLANET
-http://tv.ebox.live:8080/live/animale-planet.m3u8
-#EXTINF:0, SONY PIX HD
-http://tv.ebox.live:8080/live/sony-pix.m3u8
 
-#EXTINF:1,BOLLYWOOD HD
-http://92.249.148.48:8001/play/a00e?checkedby:iptvcat.com
+
 
