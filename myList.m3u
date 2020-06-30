@@ -66,11 +66,12 @@ https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:0,ZING TV
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8?checkedby:iptvcat.com
 
+#EXTINF:0, B4U PLUS
+http://37.235.38.131:4000/play/a02m/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0, FLIX HD
-http://103.214.202.218:8081/live/andflix-29/playlist.m3u8
-#EXTINF:0, Cartoons 
-https://edge1.dashmedia.tv/onestudio/kartoonfuntime/chunks.m3u8?nimblesessionid=131016264
+#EXTINF:0, SHEMAROO
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8?checkedby:iptvcat.com
+
 
 
 
