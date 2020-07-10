@@ -1,40 +1,21 @@
 #EXTM3U
-#EXTINF:0,افغان تایمز
-http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=15914&checkedby:iptvcat.com
-#EXTINF:0,افغانستان
-http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=15537&checkedby:iptvcat.com
-#EXTINF:0,وطن من
-http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=8655&checkedby:iptvcat.com
-#EXTINF:0,بهار
-http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=15615&checkedby:iptvcat.com
-#EXTINF:0,طوطی 
-http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=11004&checkedby:iptvcat.com
-#EXTINF:0,نوین
-http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=14560&checkedby:iptvcat.com
-#EXTINF:0,پامیر
-http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=35947&checkedby:iptvcat.com
-#EXTINF:0,تیاتر  
-http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=5033
-#EXTINF:0,آرزو
-http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=5145&checkedby:iptvcat.com
-#EXTINF:0, موزیک
-http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=14159&checkedby:iptvcat.com
+#EXTINF:1,آریانا 
+http://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w1314452267.m3u8
+#EXTINF:1,آریانا دوم
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
+#EXTINF:1,زرین
+https://59d39900ebfb8.streamlock.net/8484/8484/chunklist_w1615128073.m3u8
+#EXTINF:1,مسکینیار
+http://iptv.arianaafgtv.com/ariana/playlist1/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0,کیهان
 http://playout395.livestreamingcdn.com:1935/live/Stream1/playlist.m3u8
-#EXTINF:0,دنیا
-http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=25766&checkedby:iptvcat.com
-#EXTINF:0,آریا موزیک
-http://tokenbaba.tvcdn.online/tokenx/loadch.php?c=8636&checkedby:iptvcat.com
-
 
 #EXTINF:0,B4U KADAK
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8?checkedby:iptvcat.com
-
 #EXTINF:0,BOLLYWOOD HD
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END&checkedby:iptvcat.com
 #EXTINF:0,BOLLYWOOD CLASSIC
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END&checkedby:iptvcat.com
-
 #EXTINF:0, BOLLYWOOD SHEMAROO
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8?checkedby:iptvcat.com
 #EXTINF:0,BOLLYWOOD NOW
@@ -45,7 +26,6 @@ https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 
 #EXTINF:0,ZEE CINEMA
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
- 
 
 #EXTINF:0,VENUS UK
 http://45.77.90.56:8080/hls/mystream.m3u8?checkedby:iptvcat.com
