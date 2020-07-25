@@ -5,6 +5,8 @@ http://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w1314452267.m3u
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
 #EXTINF:1,زرین
 https://59d39900ebfb8.streamlock.net/8484/8484/chunklist_w1615128073.m3u8
+#EXTINF:-1 tvg-chno="a" tvg-id="b" tvg-name="c" tvg-logo="d" group-title="e", Bahar TV
+https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w790124509.m3u8
 #EXTINF:0,کیهان
 http://playout395.livestreamingcdn.com:1935/live/Stream1/playlist.m3u8
 #EXTINF:0,B4U KADAK
@@ -29,8 +31,6 @@ http://45.77.90.56:8080/hls/mystream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,VENUS EUROPE
 https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0, COLOR HD
-https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8 
 
 #EXTINF:0,ZEE TV
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
