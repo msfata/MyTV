@@ -7,8 +7,8 @@ https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
 https://59d39900ebfb8.streamlock.net/8484/8484/chunklist_w1615128073.m3u8
 #EXTINF:0,کیهان
 http://playout395.livestreamingcdn.com:1935/live/Stream1/playlist.m3u8
-#EXTINF:0,MBC BOLLYWOOD
-https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_1.m3u8?checkedby:iptvcat.com
+#EXTINF:1,MBC BOLLYWOOD
+https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_1.m3u8
 #EXTINF:0,B4U KADAK
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0, STAR GOLD
@@ -31,17 +31,14 @@ http://45.77.90.56:8080/hls/mystream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,VENUS EUROPE
 https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1, VENUS US
+https://a.jsrdn.com/broadcast/22690/-0800/c.m3u8
 
 #EXTINF:0,ZEE TV
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 
 #EXTINF:0,ZING TV
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0,BOLLYWOOD US
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END&checkedby:iptvcat.com
-#EXTINF:0,BOLLYWOOD PREMIER 
-https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8?checkedby:iptvcat.com
-
 
 
 
