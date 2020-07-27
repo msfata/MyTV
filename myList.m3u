@@ -27,8 +27,7 @@ https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 #EXTINF:0,ZEE CINEMA
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="24 Box TV" tvg-language="Persian" tvg-logo="https://i.imgur.com/HGmC8ea.png" group-title="Movies",24 Box TV
-http://51.158.190.97/hls/stream.m3u8
+
 
 #EXTINF:0,VENUS UK
 http://45.77.90.56:8080/hls/mystream.m3u8?checkedby:iptvcat.com
@@ -47,8 +46,13 @@ https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:1,MATV NATION
 https://a.jsrdn.com/r-373576a2/publish/22677_J8PT4x6prY/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="MBC Bollywood ARB" tvg-name="MBC Bollywood ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="Entertainment",MBC Bollywood
-https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8
+#EXTINF:0 tvg-chno="a" tvg-id="b" tvg-name="c" tvg-logo="d" group-title="e", Color's 
+https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="24 Box TV" tvg-language="Persian" tvg-logo="https://i.imgur.com/HGmC8ea.png" group-title="Movies",24 Box TV
+http://51.158.190.97/hls/stream.m3u8
+
+
 
 
 
