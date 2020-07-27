@@ -50,10 +50,8 @@ https://a.jsrdn.com/r-373576a2/publish/22677_J8PT4x6prY/index.m3u8?checkedby:ipt
 #EXTINF:-1 tvg-id="MBC Bollywood ARB" tvg-name="MBC Bollywood ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="Entertainment",MBC Bollywood
 https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" group-title="Music",ACB TV
-http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
-#EXTINF:-1 tvg-id="acb-tv" tvg-name="ACB TV" tvg-language="Russian" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/5/5d/ACB_TV.svg/revision/latest/scale-to-width-down/150?cb=20171104164504&path-prefix=ru" group-title="Entertainment",ACB TV
-https://strm.yandex.ru/kal/acb/acb0.m3u8
+
+
 
 
 
