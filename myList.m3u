@@ -5,10 +5,10 @@ http://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w1314452267.m3u
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
 #EXTINF:1,زرین
 https://59d39900ebfb8.streamlock.net/8484/8484/chunklist_w1615128073.m3u8
-#EXTINF:-1 tvg-chno="a" tvg-id="b" tvg-name="c" tvg-logo="d" group-title="e", Bahar TV
-https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w790124509.m3u8
 #EXTINF:0,کیهان
 http://playout395.livestreamingcdn.com:1935/live/Stream1/playlist.m3u8
+#EXTINF:0,MBC BOLLYWOOD
+https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_1.m3u8?checkedby:iptvcat.com
 #EXTINF:0,B4U KADAK
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0, STAR GOLD
