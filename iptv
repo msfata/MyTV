@@ -1,7 +1,153 @@
-#EXTM3U 
-#EXTINF:-1,Afghanistan
-http://87.248.160.8/edge/smil:tnt/playlist.m3u8
-#EXTINF:-1,Iran
-http://208.93.117.113/live/Streamm22/playlist.m3u8
+#EXTM3U
+#EXTINF:-1,ATN National
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",AFGHANISTAN INTERNATIONAL
+https://hls.afintl.com/hls/stream.m3u8
+#EXTINF:-1,Watan-e-Maa TV
+https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",BAHAR
+https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w2056151197.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",KAIHAN
+https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",ASIA MUSIC
+https://amchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",PAMIR
+http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",NOBEL MOVIES
+https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/chunklist_w2113308771.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",HASTI
+https://live.hastitv.com/hls/livetv.m3u8
+
+
+#EXTINF:-1,The Movie Club 
+https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
+#EXTINF:-1 group-title="HINDI",BOLLYWOOD SHEMAROO
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/cb56351c657665909dcf2167d0f162ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec58ab6852db80148b6f4adafb8c2360625f5c98435ee3b24aa5aee054168e6bf3ac19419c7e58e683179cc94ebb86d446c841d570a2419e9af5ded218e013a059806f1dbfc939581fbea23bfdfc53bfce9f6d79b77826411a5aebd1e2942c19b3378fd8659db1d940ea01c19920fb125f7698592ef65ba963af1ab4e840a7b9b4d10032510f75c50355c3c08ead815216b361f7a3e7d9313cf13eccd326bb0ef3161f42e4d6c21a83d00199b86390a4661378f499449698a1c98adaee61a87c98849cca4c1e9351f243487482e3d9902ca4fa907dcc6b316851bf9545c1c9f5513e664088ba93b5791494d4918ad3023a8535550aa828ee520b68c3237f3ccb19b9cb6c22d97d4ab23c33ad0c6ec05aaaec65b586cbf50a3e82dbc569f67ba0e05985b851ff2d74722a87df0013054074dbeb262a357ac84aad93e9e965060de9b89caf961d68496959024cb8e3e17189878f7c4e418f007012017a7da10dd86dd0175a407f996cb4823d34d4566f7d9ce4553b7d6399cfbd84fda6e94ca770decabd746f0c506db93c12352cb492884af62c446e703ed15c3c1d5d524eb78e75af0c99daf3b5c39daf/138/1920x1080_5058864/index.m3u8
+#EXTINF:-1 group-title="HINDI" ,BOLLYWOOD HD 
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/4b8e0fb1-8b97-4410-90ff-346e052badff/2.m3u8
+#EXTINF:-1 group-title="HINDI" ,BOLLYWOOD CLASSIC 
+https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index_5.m3u8
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/9QfZFpLp/1128-bollywood-clasic.jpg",Bollywood Classic HD
+http://89.187.177.137:8081/BOLLYWOOD_CLASSIC/index.m3u8
+#EXTINF:-1,stargold2
+http://mixbix.xyz:8080/gGJcXyXurmXf/dVKaqV8M28sQ/236941
+#EXTINF:-1 group-title="HINDI" ,SONY MAX HD
+http://208.86.19.13:81/706.stream/index.m3u8  
+#EXTINF:-1 group-title="INDIA",SONY MAX2
+http://208.86.19.13:81/7300.stream/index.m3u8
+#EXTINF:-1 group-title="HINDI" ,BOLLYWOOD PRIME
+https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
+#EXTINF:-1,Zee Cinema HD
+http://103.120.172.74:4100
+#EXTINF:-1 group-title="HINDI" ,B4U KADAK
+https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
+#EXTINF:-1 group-title="HINDI",MBC BPLLYWOOD
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1,Shemaroo Bollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1,Sony Max HD
+http://89.187.177.137:8081/SONYMAX/index.m3u8
+#EXTINF:-1,Star Gold Romance
+http://mag.trexlive.me:80/Michael88/Michael88/156033
+#EXTINF:-1 group-title="Movies",B4U MOVIES
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58354
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/1zHD6g5W/Manoranjan-Movies.jpg",Manoranjan Movies
+http://longstream-04.ajaah.com/PlayBoxTV/ManoranjanMovies/playlist.m3u8
+#EXTINF:-1,E24
+http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
+#EXTINF:-1,Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1, Pardesi TV
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BFlix Movies
+http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
+#EXTINF:0 group-title="Таджикистан | Точик" tvg-id="2581" tvg-logo="http://epg.it999.ru/img/2581.png" tvg-rec="3",TV Sinamo
+http://o0bs5gim.tvclub.xyz/iptv/3Q2XMEP8XY2EL7/2231/index.m3u8
+#EXTINF:0 group-title="Таджикистан | Точик" tvg-id="2582" tvg-logo="http://epg.it999.ru/img/2582.png" tvg-rec="3",Tojikistan HD
+http://o0bs5gim.tvclub.xyz/iptv/3Q2XMEP8XY2EL7/2232/index.m3u8
+#EXTINF:0 group-title="Таджикистан | Точик" tvg-id="2583" tvg-logo="http://epg.it999.ru/img/2583.png" tvg-rec="3",Safina HD
+http://o0bs5gim.tvclub.xyz/iptv/3Q2XMEP8XY2EL7/2233/index.m3u8
+#EXTINF:0 group-title="Таджикистан | Точик" tvg-id="2584" tvg-logo="http://epg.it999.ru/img/2584.png" tvg-rec="3",Bakhoristan HD
+http://o0bs5gim.tvclub.xyz/iptv/3Q2XMEP8XY2EL7/2234/index.m3u8
+#EXTINF:0 group-title="Таджикистан | Точик" tvg-id="2585" tvg-logo="http://epg.it999.ru/img/2585.png" tvg-rec="3",Jahonnamo
+http://o0bs5gim.tvclub.xyz/iptv/3Q2XMEP8XY2EL7/2235/index.m3u8
+#EXTINF:-1,& flix HD
+http://89.187.177.137:8081/&FLIX/index.m3u8
+#EXTINF:-1,& prive HD
+http://89.187.177.137:8081/&PRIVE/index.m3u8
+#EXTINF:-1,Nature Time
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
+#EXTINF:-1,Star Channel
+http://50.7.137.106:8080/FOX/index.m3u8
+#EXTINF:-1,SONY PIX HD
+https://tv5.hoichoi24.com/1604/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MU TV SPORT
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1,OLD ENGLISH
+https://circle-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,mov
+http://o0bs5gim.tvclub.xyz/iptv/3Q2XMEP8XY2EL7/7057/index.m3u8
+#EXTINF:-1,LIFE
+http://o0bs5gim.tvclub.xyz/iptv/3Q2XMEP8XY2EL7/6484/index.m3u8
+#EXTINF:-1,Crime
+http://o0bs5gim.tvclub.xyz/iptv/3Q2XMEP8XY2EL7/6506/index.m3u8
+#EXTINF:-1,History
+http://o0bs5gim.tvclub.xyz/iptv/3Q2XMEP8XY2EL7/6500/index.m3u8
+#EXTINF:-1,DISNEY
+http://o0bs5gim.tvclub.xyz/iptv/3Q2XMEP8XY2EL7/6490/index.m3u8
+#EXTINF:-1,Mussic
+http://o0bs5gim.tvclub.xyz/iptv/3Q2XMEP8XY2EL7/122/index.m3u8
+#EXTINF:-1,music
+http://o0bs5gim.tvclub.xyz/iptv/3Q2XMEP8XY2EL7/7056/index.m3u8
+#EXTINF:-1,Russian Mussic
+http://o0bs5gim.tvclub.xyz/iptv/3Q2XMEP8XY2EL7/120/index.m3u8
+#EXTINF:-1,SPORT
+http://o0bs5gim.tvclub.xyz/iptv/3Q2XMEP8XY2EL7/6478/index.m3u8
+#EXTINF:-1,Footbal
+http://o0bs5gim.tvclub.xyz/iptv/3Q2XMEP8XY2EL7/6477/index.m3u8
+#EXTINF:-1,Star Sports 1 HD
+http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1,RACING
+http://o0bs5gim.tvclub.xyz/iptv/3Q2XMEP8XY2EL7/6492/index.m3u8
+#EXTINF:-1,PTV Sports HD
+http://175.107.244.52:4457/play/a08g/index.m3u8
+#EXTINF:-1,Ski TV
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
+#EXTINF:-1,Euro Sport1
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
+#EXTINF:-1,Dunia Sinema HD
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+#EXTINF:-1,AXS
+https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1,TNT
+http://170.254.18.106/TNT/index.m3u8
+#EXTINF:-1,ION
+https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8
+#EXTINF:-1,ION PLUS
+https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8
+#EXTINF:-1,HBO PLUS
+http://170.254.18.106/HBO_PLUS/index.m3u8
+#EXTINF:-1,HBO FAMILY
+http://170.254.18.106/HBO_FAMILY/index.m3u8
+#EXTINF:-1,HBO SIGNATURE
+http://170.254.18.106/HBO_SIG/index.m3u8
+#EXTINF:-1,HBO EXTREAME
+http://170.254.18.106/HBO_XTREME/index.m3u8
+#EXTINF:-1,HBO WEST
+http://170.254.18.106/HBO2/index.m3u8
+#EXTINF:-1,CINEMAX
+http://170.254.18.106/CINEMAX/index.m3u8
+#EXTINF:-1,MOVIES SPHERE
+https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
+#EXTINF:-1,STAR 
+http://170.254.18.106/STAR/index.m3u8
+#EXTINF:-1, BET Movie
+http://170.254.18.106/BET/index.m3u8
+#EXTINF:-1, T Sports
+https://tv5.hoichoi24.com/1101/tracks-v1a1/mono.m3u8
+
+
+
+
 
 
